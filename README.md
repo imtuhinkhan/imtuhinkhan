@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tuhin Khan. Thank you for visiting my profile
-- 👀 I’m software engineer and currently working in reputed company in Bangladesh.
+- 👀 I’m a software engineer and currently working at a reputed company in Bangladesh.
 - 🌱 I’m always keen to learn new technologies. Whenever I get chance I try to learn new thing.
 - 📫 You can get touch with me by email or phone
 
